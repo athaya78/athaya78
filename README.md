@@ -4,9 +4,8 @@
 
 ## About me:
 
-- 🌱 I’m currently learning HTML, CSS and PHP
-- 👯 I’m looking to collaborate as Front End Developer
-- 🤔 I’m looking for suggest for web development.
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate as Data analytics and Front End 
 - 💬 Ask me about anything
 - 📫 How to reach me: athayahanna78@gmail.com
 
